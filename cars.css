@@ -4,3 +4,12 @@
 .mtb{
     margin-top: 100px;
 }
+
+body {
+    color: #fff;
+    background-color: #0C1821;
+}
+
+p {
+    font-size: 1.1em;
+}
